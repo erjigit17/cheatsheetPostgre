@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=yVYRpe89hD4
 11) почему к каждой базе недно создавать пользователя?
 12) почему язык sql называют декларативным?
 13) 
-SELECT *
+SELECT columns
 FROM tableName
 WHERE IN / OR    LIKE   _ / %
 14)  
